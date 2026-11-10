@@ -64,8 +64,15 @@ Execute commands as superuser
 
 </details>
 ___
+
+
 <details>
 <summary>Video: Package Manager - Installing Software on Linux</summary>
+
+
+
+
+</details>
 
 
 
