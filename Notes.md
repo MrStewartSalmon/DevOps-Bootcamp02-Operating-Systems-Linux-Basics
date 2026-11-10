@@ -57,6 +57,14 @@ Display OS Information
 - `lscpu` — Display hardware information, e.g. how many CPU you have etc.
 - `lsmem` — Display memory information.
 
+Execute commands as superuser
+
+- `sudo [some command]` — Allows regular users to run programs with the security privileges of the superuser or root.
+- `su - admin` — Switch from nana user to admin.
+
+
+
+
 
 
 
