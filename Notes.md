@@ -14,3 +14,18 @@ Directory Operatings:
 - `cd` — changes directory.
 - `mkdir [dirname]` — Make directory [dirname].
 - `cd ..` — Go up a directory.
+
+File Operations:
+
+- `touch [filename]` — Create [filename].
+- `rm [filename]` — Delete [filename].
+- `rm -r [dirname]` — Delete a non-empty directory and all the files in it.
+- `rm -d [dirname]` or `rmdir [dirname]`  — Delete an empty directory.
+
+
+
+
+  
+
+
+
