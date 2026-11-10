@@ -26,7 +26,7 @@ Navigating in the File System:
 
 - `cd usr/local/bin` — Navigate multiple dirs (relative path - relative to current dir). Move to bin directory.
 - `cd ../..` — Move up 2 hierarchies, so go to 'usr' directory.
-- `cd /usr' — Alternative to go to 'usr' directly (absolute path).
+- `cd /usr` — Alternative to go to 'usr' directly (absolute path).
 - `cd [absolute path]` — Move to any location by providing the full path.
 - `cd /home/stewart` — Go to my home directory (absolute path).
 - `cd ~` — Shortcut alternative to go to home directory.
