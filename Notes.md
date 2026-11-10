@@ -62,6 +62,7 @@ Execute commands as superuser
 - `sudo [some command]` — Allows regular users to run programs with the security privileges of the superuser or root.
 - `su - admin` — Switch from nana user to admin.
 
+___
 <details>
 <summary>Video: Package Manager - Installing Software on Linux</summary>
 
