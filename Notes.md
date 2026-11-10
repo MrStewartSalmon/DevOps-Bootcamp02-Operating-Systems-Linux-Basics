@@ -30,7 +30,12 @@ Navigating in the File System:
 - `cd [absolute path]` — Move to any location by providing the full path.
 - `cd /home/stewart` — Go to my home directory (absolute path).
 - `cd ~` — Shortcut alternative to go to home directory.
-- `ls /etc/network` — List folders and files of 'network' directory
+
+More File and Directory Operations
+
+- `mv [filename] [new_filename]` — Rename the file to a new file name.
+- `cp -r [dirname] [new_dirname]` — Copy dirname to new_dirname recursively meaning including the files.
+- `cp [filename] [new_filename]` — Copy filename to new_filename.
 
 
 
