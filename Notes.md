@@ -22,6 +22,16 @@ File Operations:
 - `rm -r [dirname]` — Delete a non-empty directory and all the files in it.
 - `rm -d [dirname]` or `rmdir [dirname]`  — Delete an empty directory.
 
+Navigating in the File System:
+
+- `cd usr/local/bin` - Navigate multiple dirs (relative path - relative to current dir). Move to bin directory
+
+-
+-
+-
+-
+-
+-
 
 
 
