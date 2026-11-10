@@ -63,8 +63,8 @@ Execute commands as superuser
 - `su - admin` — Switch from nana user to admin.
 
 </details>
-___
 
+---
 
 <details>
 <summary>Video: Package Manager - Installing Software on Linux</summary>
