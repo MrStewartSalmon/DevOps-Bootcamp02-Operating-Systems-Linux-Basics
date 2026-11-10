@@ -12,4 +12,5 @@ Directory Operatings:
 - `pwd` — shows your current directory.
 - `ls` — lists files and folders.
 - `cd` — changes directory.
-
+- `mkdir [dirname]` — Make directory [dirname].
+- `cd ..` — Go up a directory.
