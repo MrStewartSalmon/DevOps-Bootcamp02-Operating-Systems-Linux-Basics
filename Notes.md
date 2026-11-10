@@ -37,8 +37,18 @@ More File and Directory Operations
 - `cp -r [dirname] [new_dirname]` — Copy dirname to new_dirname recursively meaning including the files.
 - `cp [filename] [new_filename]` — Copy filename to new_filename.
 
+More useful commands
 
-
+- `ls -R [dirname]` — how dirs and files but also sub dirs and files.
+- `history` — Gives a list of all past commands typed in the current terminal session.
+- `history 20` — Show list of last 20 commands.
+- `CTRL + r` — Search history.
+- `CTRL + c` — Stop current command.
+- `CTRL + SHIFT + v` — Paste copied text into terminal.
+- `ls -a` — See hiden files.
+- `cat [filename]` — Display the file content.
+- `cat .bash_history` — Example 1: Display the file content.
+- `cat Documents/java-app/Readme.md` — Example 2: Display the file content.
   
 
 
