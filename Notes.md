@@ -49,7 +49,14 @@ More useful commands
 - `cat [filename]` — Display the file content.
 - `cat .bash_history` — Example 1: Display the file content.
 - `cat Documents/java-app/Readme.md` — Example 2: Display the file content.
-  
+
+Display OS Information
+
+- `uname -a` — Show system and kernel.
+- `cat /etc/os-release` — Show OS information.
+- `lscpu` — Display hardware information, e.g. how many CPU you have etc.
+- `lsmem` — Display memory information.
+
 
 
 
