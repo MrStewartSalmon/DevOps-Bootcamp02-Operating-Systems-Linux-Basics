@@ -69,7 +69,16 @@ Execute commands as superuser
 <details>
 <summary>Video: Package Manager - Installing Software on Linux</summary>
 
+APT Package Manager:
 
+- `sudo apt search [package_name]` — Search for a given package.
+- `sudo apt install [package_name]` — Install a given package.
+- `sudo apt install [package_name] [package_name2]`— Install multiple packages with one command.
+- `sudo apt remove [package_name]` — Remove installed package.
+- `sudo apt update` — Updates the package index. Pulls the latest changes from the APT repositories.
+- `sudo apt upgrade [package_name]` — Upgrade the system by intalling/upgrading packages.
+- `apt list --upgradeable` — List packages that can be upgraded by newer versions.
+- `apt list --installed` — List installed packages.
 
 
 </details>
