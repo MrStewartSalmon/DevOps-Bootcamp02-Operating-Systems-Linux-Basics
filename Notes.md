@@ -94,6 +94,7 @@ SNAP Package Manager (https://snapcraft.io/):
 
 <summary>Video:Working with Vim Editor </summary>
 
+
 Install Vim, if it's not available:
 
 -`sudo apt install vim`
