@@ -3,6 +3,7 @@
 <details>
 <summary>Video: Basic Linux Commands</summary>
 
+
 General Operations:
 
 - `clear` — Clearns terminal.
@@ -69,6 +70,7 @@ Execute commands as superuser
 <details>
 <summary>Video: Package Manager - Installing Software on Linux</summary>
 
+
 Debian based Linux distributions (like Debian, Ubuntu, Mint) use the package manager apt (or apt-get), whereas Red Hat based distributions (like RHEL, CentOS, Fedora) use yum.
 
 APT Package Manager:
@@ -90,7 +92,12 @@ SNAP Package Manager (https://snapcraft.io/):
 
 - `sudo snap install [package_name]` - Install a given package.
 
+</details>
+
+
 ---
+
+<details>
 
 <summary>Video: Working with Vim Editor</summary>
 
