@@ -69,6 +69,8 @@ Execute commands as superuser
 <details>
 <summary>Video: Package Manager - Installing Software on Linux</summary>
 
+Debian based Linux distributions (like Debian, Ubuntu, Mint) use the package manager apt (or apt-get), whereas Red Hat based distributions (like RHEL, CentOS, Fedora) use yum.
+
 APT Package Manager:
 
 - `sudo apt search [package_name]` — Search for a given package.
