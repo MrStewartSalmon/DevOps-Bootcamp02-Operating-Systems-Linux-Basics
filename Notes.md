@@ -128,8 +128,8 @@ Vim Commands:
 - `Type 12G` - Go to line 12.
 - `Type 16G` - Go to line 16.
 - `Type /pattern` - Search for pattern, e.g. `/nginx`
-     -`Type n` - Jump to next match.
-     -`Type N` - Search in opposite direction.
+      -`Type n` - Jump to next match.
+      -`Type N` - Search in opposite direction.
 
 
 
