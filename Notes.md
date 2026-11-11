@@ -82,7 +82,15 @@ APT Package Manager:
 - `apt list --upgradeable` — List packages that can be upgraded by newer versions.
 - `apt list --installed` — List installed packages.
 
+APT-GET Package Manager:
 
+- `sudo apt-get -y install [package_name]` - nstall package with apt-get package manager (-y or --yes or --assume-yes: automatic yes to any prompts during installation).
+
+SNAP Package Manager (https://snapcraft.io/):
+
+- `sudo snap install [package_name]` - Install a given package.
+
+  
 </details>
 
 
