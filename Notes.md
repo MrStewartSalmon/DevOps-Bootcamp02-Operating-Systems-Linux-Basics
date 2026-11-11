@@ -130,6 +130,7 @@ Vim Commands:
 - `Type /pattern`- Search for pattern, e.g. `/nginx`
     - `Type n` - Go to next match.
     - `Type N` - Search in opposite direction.
+- `Type :%s/old/new/g`- Replace 'old' with 'new' throughout the file.
 
 
 
