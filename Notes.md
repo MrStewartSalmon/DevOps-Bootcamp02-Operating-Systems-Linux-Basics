@@ -141,6 +141,13 @@ Vim Commands:
 
 <summary>Video: Linux Accounts & Groups (Users & Permissions Part 1)</summary>
 
+Locations of Access Control Files:
+
+- /etc/passwd
+- /etc/shadow
+- /etc/group
+
+- sudo adduser [username]- Create a new user
 
 </details>
 
