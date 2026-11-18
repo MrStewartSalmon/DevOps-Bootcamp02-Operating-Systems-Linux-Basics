@@ -220,7 +220,7 @@ Change multiple permissions for an owner
 
 Changing permissions with numeric values
 
-Set permissions for all owners with 3 digits, 1 digit for each owner Absolute vs Symbolic Mode(https://docs.oracle.com/cd/E19455-01/805-7229/6j6q8svd8/).
+Set permissions for all owners with 3 digits, 1 digit for each owner [Absolute vs Symbolic] Mode(https://docs.oracle.com/cd/E19455-01/805-7229/6j6q8svd8/).
 
 - 0 = No permission.
 - 1 = Execute.
