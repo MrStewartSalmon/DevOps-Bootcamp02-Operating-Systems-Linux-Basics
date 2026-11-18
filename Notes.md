@@ -172,6 +172,17 @@ Vim Commands:
 </details>
 
 
+<details>
+
+<summary>Video: File Ownership & Permissions (Users & Permissions Part 2)</summary>
+
+
+
+
+
+
+</details>
+
 
 
 
