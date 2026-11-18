@@ -154,6 +154,9 @@ Vim Commands:
 - `sudo groupadd [groupname]` - Create new group (System assigns next available GID)
 
 # User/Group commands:
+`adduser`, `addgroup`, `deluser`, `delgroup` - interactive, more user friendly commands
+`useradd`, `groupadd`, `userdel`, `groupdel` - low-level utilities, all infos need to be provided as parameters; use these commands in scripts
+
 
 
 
