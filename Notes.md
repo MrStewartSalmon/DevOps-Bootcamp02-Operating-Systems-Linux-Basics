@@ -133,9 +133,17 @@ Vim Commands:
 - `Type :%s/old/new/g`- Replace 'old' with 'new' throughout the file.
 
 
+</details>
+
+---
+
+<details>
+
+<summary>Video: Linux Accounts & Groups (Users & Permissions Part 1)</summary>
 
 
 </details>
+
 
 
 
