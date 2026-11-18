@@ -158,8 +158,16 @@ Vim Commands:
 
 `useradd`, `groupadd`, `userdel`, `groupdel` - low-level utilities, all infos need to be provided as parameters; use these commands in scripts.
 
+- `sudo usermod [OPTIONS] [username]` - Modify a user account.
+- `sudo usermod -g devops tom` - Assign 'devops' as the primary group for 'tom' user.
+- `sudo usermod -aG sudo tom` - Add the user 'tom' to the 'sudo' group.
+- `sudo delgroup tom` - Removes group 'tom'.
+- `groups` - Display groups the current logged in user belongs to.
+- `groups [username]` - Display groups of the given username.
+- `sudo useradd -G devops nicole` - Create 'nicole' user and add nicole to 'devops' group (-G = secondary group, not primary).
+- `sudo gpasswd -d nicole devops` - Removes user 'nicole' from group 'devops'.
 
-
+---
 
 </details>
 
