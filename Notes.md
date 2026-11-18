@@ -193,6 +193,32 @@ Vim Commands:
   - x = Execute.
   - '-' = No permission.
 
+#### Change File Permissions for different owners
+
+File Permissions can be changed for:
+
+- u = Owner.
+- g = Group.
+- o = Other (all other users).
+
+Minus (-) removes the permission
+
+- `sudo chmod -x api` - Takes 'execute' permission away for 'api' folder from all owners (user, group, others).
+
+- `sudo chmod g-w config.yaml` - Takes 'write' permission away for 'config.yaml' file from the group.
+
+Plus (+) adds permission
+
+- `sudo chmod g+x config.yaml` - Add 'execute' permission for 'config.yaml' file to the group.
+- `sudo chmod u+x script.sh` - Add 'execute' permission for 'script.sh' file to the user.
+- `sudo chmod o+x script.sh` - Add 'execute' permission for 'script.sh' file to other.
+
+
+
+
+- 
+
+
 
 
 
