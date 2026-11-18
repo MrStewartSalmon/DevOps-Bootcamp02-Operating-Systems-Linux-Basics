@@ -147,7 +147,7 @@ Locations of Access Control Files:
 - /etc/shadow
 - /etc/group
 
-- sudo adduser [username]- Create a new user
+- `sudo adduser [username]`- Create a new user
 
 </details>
 
