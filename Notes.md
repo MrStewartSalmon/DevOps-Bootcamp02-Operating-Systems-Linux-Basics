@@ -141,7 +141,7 @@ Vim Commands:
 
 <summary>Video: Linux Accounts & Groups (Users & Permissions Part 1)</summary>
 
-# Locations of Access Control Files:
+##### Locations of Access Control Files:
 
 - /etc/passwd
 - /etc/shadow
@@ -153,7 +153,7 @@ Vim Commands:
 - `su -` - Login as root.
 - `sudo groupadd [groupname]` - Create new group (System assigns next available GID)
 
-# User/Group commands:
+##### User/Group commands:
 `adduser`, `addgroup`, `deluser`, `delgroup` - interactive, more user friendly commands.
 
 `useradd`, `groupadd`, `userdel`, `groupdel` - low-level utilities, all infos need to be provided as parameters; use these commands in scripts.
@@ -176,6 +176,25 @@ Vim Commands:
 <details>
 
 <summary>Video: File Ownership & Permissions (Users & Permissions Part 2)</summary>
+
+- `ls -l` - Print files in a long listing format, you can see ownership and permissions of the file.
+  
+##### Ownership:
+
+- `sudo chown [username]:[groupname] [filename]` - Change ownership.
+- `sudo chown tom:admin test.txt` - Change ownership of 'test.txt' file to 'tom' and group 'admin'.
+-  `sudo chown admin test.txt` - Change ownership of 'test.txt' to 'admin' user.
+- `sudo chgrp devops test.txt` - Make 'devops' group owner of test.txt file.
+
+  ##### Possible File Permissions (Symbolic):
+
+  - r = Read.
+  - w = Write.
+  - x = Execute.
+  - '-' = No permission.
+
+
+
 
 
 
