@@ -167,10 +167,11 @@ Vim Commands:
 - `sudo useradd -G devops nicole` - Create 'nicole' user and add nicole to 'devops' group (-G = secondary group, not primary).
 - `sudo gpasswd -d nicole devops` - Removes user 'nicole' from group 'devops'.
 
----
+
 
 </details>
 
+---
 
 <details>
 
